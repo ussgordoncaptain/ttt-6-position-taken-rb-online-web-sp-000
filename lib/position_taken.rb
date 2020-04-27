@@ -5,4 +5,5 @@ def position_taken?(board, square)
     return false
   else
     return true
+  end
 end
